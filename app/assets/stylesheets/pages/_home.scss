@@ -1,1 +1,13 @@
 // Specific CSS for your home-page
+.about-section {
+  padding: 50px 100px;
+}
+
+.about-contents {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 35px;
+  p {
+    text-align: justify;
+  }
+}
