@@ -30,6 +30,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 
 gem 'autoprefixer-rails'
 gem 'simple_form'
+gem 'yt', '~> 0.32.5'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
